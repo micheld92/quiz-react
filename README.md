@@ -1,3 +1,6 @@
+<img src="/img/1.jpg" alt="Tela inicial"/>
+<img src="/img/2.jpg" alt="Tela de perguntas e opções"/>
+<img src="/img/3.jpg" alt="Tela final"/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
